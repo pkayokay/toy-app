@@ -1,24 +1,6 @@
-# README
+# Toy app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a practice app from Michael Hartl's Ruby on Rails 5 Turorial.
 
-Things you may want to cover:
+https://www.railstutorial.org/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
